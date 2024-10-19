@@ -1,38 +1,63 @@
-.App {
-  text-align: center;
+#root {
+  font-family: 'Poppins';
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#basic-navbar-nav {
+  font-weight: 600;
+  justify-content: flex-end;
+  padding-top:15px;
+  padding-bottom:15px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.nav-link {
+  padding:15px 40px!important;
+  /* margin-right: 30px; */
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+#booknow-nav {
   color: white;
+  background-color: #fa6400 !important;
 }
 
-.App-link {
-  color: #61dafb;
+#landing {
+  background-image: url('https://cdn.idntimes.com/content-images/community/2024/03/whatsapp-image-2024-03-04-at-222941-e551f15a-231598487f96cc977f2f775a83051a8e-16b5c6ca390845fdb3699e43f9193c58.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-blend-mode: multiply;
+  min-height: 700px;
+  align-content: center;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#benefits .row {
+  margin-bottom: 30px;
+}
+
+#benefits .col {
+  padding: 20px;
+  margin-left:20px;
+  border: 2px solid #2c2c2c;
+  border-radius: 15px;
+}
+
+#benefits h1 {
+  color: #fa6400;
+  font-size: 60px;
+  font-weight: 700;
+}
+
+#benefits h3 {
+  margin-bottom: 30px;
+}
+
+#benefits .col p {
+  font-weight: 300;
+}
+
+.accordion-button {
+  font-size: 30px;
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: white !important;
+  color: black !important;
 }
