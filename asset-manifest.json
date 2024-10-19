@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/bestrip-coworking-test/static/css/main.f855e6bc.css",
-    "main.js": "/bestrip-coworking-test/static/js/main.1ffea7bf.js",
-    "static/js/453.633798dd.chunk.js": "/bestrip-coworking-test/static/js/453.633798dd.chunk.js",
+    "main.css": "/bestrip-coworking-test/static/css/main.43491da1.css",
+    "main.js": "/bestrip-coworking-test/static/js/main.6853d1ff.js",
     "static/media/logo.svg": "/bestrip-coworking-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/bestrip-coworking-test/index.html",
-    "main.f855e6bc.css.map": "/bestrip-coworking-test/static/css/main.f855e6bc.css.map",
-    "main.1ffea7bf.js.map": "/bestrip-coworking-test/static/js/main.1ffea7bf.js.map",
-    "453.633798dd.chunk.js.map": "/bestrip-coworking-test/static/js/453.633798dd.chunk.js.map"
+    "main.43491da1.css.map": "/bestrip-coworking-test/static/css/main.43491da1.css.map",
+    "main.6853d1ff.js.map": "/bestrip-coworking-test/static/js/main.6853d1ff.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.1ffea7bf.js"
+    "static/css/main.43491da1.css",
+    "static/js/main.6853d1ff.js"
   ]
 }
